@@ -3,8 +3,16 @@
 	"svr": "server/",
 	"miniprogramRoot": "client/",
 	"qcloudRoot": "server/",
-	"setting": {},
-	"appid": "wx8d44f74f80be8c29",
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"autoAudits": false,
+		"checkInvalidKey": true
+	},
+	"appid": "wx72af4fa571f39ae6",
 	"projectname": "wechat-store",
 	"simulatorType": "wechat",
 	"simulatorPluginLibVersion": {},
